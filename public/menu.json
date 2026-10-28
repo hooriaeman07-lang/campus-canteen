@@ -1,0 +1,12 @@
+{
+  "items": [
+    { "id": 1, "name": "Chicken Biryani", "category": "Meals", "price": 350, "image": "/images/biryani.jpg", "description": "Spiced chicken rice with raita.", "calories": 650 },
+    { "id": 2, "name": "Daal Chawal", "category": "Meals", "price": 220, "image": "/images/daal-chawal.jpg", "description": "Lentils with steamed rice.", "calories": 480 },
+    { "id": 3, "name": "Zinger Burger", "category": "Fast Food", "price": 380, "image": "/images/zinger.jpg", "description": "Crispy chicken burger.", "calories": 590 },
+    { "id": 4, "name": "French Fries", "category": "Fast Food", "price": 150, "image": "/images/fries.jpg", "description": "Golden salted fries.", "calories": 360 },
+    { "id": 5, "name": "Samosa (2 pcs)", "category": "Snacks", "price": 80, "image": "/images/samosa.jpg", "description": "Crispy potato samosas.", "calories": 280 },
+    { "id": 6, "name": "Chicken Roll", "category": "Snacks", "price": 200, "image": "/images/roll.jpg", "description": "Spicy chicken in paratha.", "calories": 430 },
+    { "id": 7, "name": "Chai", "category": "Drinks", "price": 60, "image": "/images/chai.jpg", "description": "Hot doodh patti chai.", "calories": 120 },
+    { "id": 8, "name": "Mango Shake", "category": "Drinks", "price": 180, "image": "/images/mango-shake.jpg", "description": "Fresh mango milkshake.", "calories": 310 }
+  ]
+}
